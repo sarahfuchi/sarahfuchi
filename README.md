@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah Fuchi</h1>
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
+
+- 🔭 I’m currently working on **building up my GitHub profile with data science projects**.
 
 - 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
 
