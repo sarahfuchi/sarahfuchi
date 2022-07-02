@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Fuchi</h1>
-
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects**.
+- 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
 
 - 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
 
@@ -8,15 +7,13 @@
 
 - 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
 
+- 👨‍💻 All of my data science projects are available at [https://github.com/sarahfuchi/Data-Science](https://github.com/sarahfuchi/Data-Science)
+
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
 - 📫 How to reach me **email me or connect on LinkedIn.**
 
 - ⚡ Fun fact **I enjoy knitting when I'm not coding.**
-
-### Backround
-
-I graduated from Tokyo Institute of Technology with a Bachelor of Science in electrical engineering. I have worked at some of the top firms in the industry as a quality engineer, but I have found a new passion in data science. I started coding more often in order to improve my skills. I enjoyed automating tasks we commonly complete manually. My team definitely appreciated that! I started working on predictive analytics projects on my own, even though I wasn't assigned any. I came up with my own ideas, designed a solution, and started implementing them proactively.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
