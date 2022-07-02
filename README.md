@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
-- 📫 How to reach me **email me or connect on LinkedIn.**
+- 📫 How to reach me **[email](mailto:sarahfuchi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) me or connect on LinkedIn.**
 
 - ⚡ Fun fact **I enjoy knitting when I'm not coding.**
 
