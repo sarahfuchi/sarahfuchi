@@ -15,5 +15,4 @@ I graduated from Tokyo Institute of Technology with a Bachelor of Science in ele
 
 ### Contact me
 
-Contact Me
-| Email | sarahfuchi@gmail.com | | LinkedIn | https://www.linkedin.com/in/sarahfuchi/ |
+| Email | sarahfuchi@gmail.com | | LinkedIn | https://www.linkedin.com/in/sarahfuchi/ 
