@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building up my GitHub profile with data-science projects. 
-- 🌱 I’m currently learning Explanatory data analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).
+- 🔭 I'm currently working on building up my GitHub profile with data science projects.  
+- 🌱 I’m currently learning the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).
 - 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects. 
-- 🤔 I’m looking for help with front end applications, ideally displaying the data-science results on a website. 
-- 💬 Ask me about anything data-science related, really! I love talking about this! :) 
-- 📫 How to reach me: Feel free to contact me or email me!
+- 🤔 I'm looking for help with front end applications, ideally displaying the data-science results on a website. 
+- 💬 Ask me anything data-science related, and I'll be happy to help you out. I love talking about this!
+- 📫 To reach me, please contact me on LinkedIn or email me!
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: When I am not coding, I am most likely knitting! 
+- ⚡ Fun fact: I enjoy knitting when I'm not coding.
+
+### Backround
+
+I graduated from Tokyo Institute of Technology with a Bachelor of Science in mechanical engineering. I have worked at some of the top firms in the industry, but I have found a new passion in data science. I started coding more often in order to improve my skills. I enjoyed automating tasks we commonly complete manually. My team definitely appreciated that! I started working on predictive analytics projects on my own, even though I wasn't assigned any. I came up with my own ideas, designed a solution, and started implementing them proactively.
