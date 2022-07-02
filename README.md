@@ -16,4 +16,4 @@ I graduated from Tokyo Institute of Technology with a Bachelor of Science in ele
 
 📫 To reach me, please contact me on LinkedIn or email me!
 
-[Email](sarahfuchi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sarahfuchi/)
+[Email](mailto:sarahfuchi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [LinkedIn](https://www.linkedin.com/in/sarahfuchi/)
